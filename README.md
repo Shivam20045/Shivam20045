@@ -35,13 +35,13 @@
 
 ### 🔭 Featured Projects
 
-#### 🏠 [3DHouse24x7](#)
+#### 🏠 [3DHouse24x7]
 A client-facing customer review management platform.
 - Built with **Next.js 14, TypeScript, Supabase**
 - Migrated from a local JSON backend to a full Supabase-backed data layer
 - Live and deployed on **Vercel**
 
-#### 🎙️ Prep Master (formerly Greenroom)
+#### 🎙️ Prep-Master
 An AI-powered mock interview platform with voice-based interviews.
 - Stack: **Next.js, Supabase, Prisma, Clerk, Google Gemini, Vapi**
 - Custom dark "green-mist" UI, designed to feel hand-crafted rather than AI-generated
