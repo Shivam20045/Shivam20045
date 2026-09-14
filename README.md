@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack AI Developer | MCA Candidate @ C-DAC Noida | Building with AI</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Full+Stack+AI+Developer+(MERN+%2B+Next.js);Building+AI-Powered+Web+Apps;React+%7C+Next.js+%7C+Gen AI+Supabase+%7C+PostgreSQL;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2EA043&center=true&vCenter=true&width=700&lines=Full+Stack+AI+Developer+(MERN+%2B+Next.js);Building+AI-Powered+Web+Apps;React+%7C+Next.js+%7C+Gen-AI+%7C+Supabase+%7C+PostgreSQL;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
 </p>
 
 ---
